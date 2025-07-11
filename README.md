@@ -64,7 +64,7 @@ The dataset is a fictional representation of pizza orders made over a certain pe
 ### E. Advanced Filtering
 Queries can be filtered using `WHERE` clause based on `pizza_category`, `pizza_size`, or even by specific months or days.
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 
 The `.pbit` file contains a pre-built dashboard that allows users to interact with:
 
@@ -73,7 +73,7 @@ The `.pbit` file contains a pre-built dashboard that allows users to interact wi
 - Bar/column charts showing performance by category and pizza type
 - Filters for category, size, and date
 
-> ⚠️ To use the dashboard:  
+> To use the dashboard:  
 > Open `Pizza sales.pbit` in Power BI Desktop → Load your dataset → Refresh → Explore.
 
 ## Sample Business Questions Answered
