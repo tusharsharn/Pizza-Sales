@@ -1,10 +1,10 @@
 # Pizza-Sales
 
-# 🍕 Pizza Sales Data Analysis with SQL & Power BI
+# Pizza Sales Data Analysis with SQL & Power BI
 
 Welcome to the Pizza Sales Analysis project! This repository showcases a complete data analysis pipeline starting from SQL queries for data exploration and transformation, to building a rich and interactive dashboard using Power BI. The objective of this project is to analyze sales data from a fictional pizza store and derive actionable business insights.
 
-## 📌 Project Overview
+## Project Overview
 
 In this project, I performed exploratory data analysis (EDA) on a pizza sales dataset using SQL to answer key business questions such as:
 
@@ -15,7 +15,7 @@ In this project, I performed exploratory data analysis (EDA) on a pizza sales da
 
 The final outcome is a Power BI dashboard that visually presents these insights in an easy-to-understand format for stakeholders.
 
-## 🧠 Objectives
+## Objectives
 
 - Practice real-world SQL querying skills on a transactional dataset.
 - Create business-focused KPIs and trends using SQL.
@@ -23,7 +23,7 @@ The final outcome is a Power BI dashboard that visually presents these insights 
 - Understand how data-driven decision making can be implemented in the food & beverage industry.
 
 
-## 🗃 Dataset Description
+## Dataset Description
 
 The dataset is a fictional representation of pizza orders made over a certain period. Each record in the dataset represents a pizza order with attributes such as:
 
@@ -38,7 +38,7 @@ The dataset is a fictional representation of pizza orders made over a certain pe
 | quantity         | Number of pizzas ordered            |
 | total_price      | Price for that row’s order          |
 
-## 🔍 SQL Analysis Breakdown
+## SQL Analysis Breakdown
 
 ### A. Key Performance Indicators (KPIs)
 - Total Revenue
@@ -76,7 +76,7 @@ The `.pbit` file contains a pre-built dashboard that allows users to interact wi
 > ⚠️ To use the dashboard:  
 > Open `Pizza sales.pbit` in Power BI Desktop → Load your dataset → Refresh → Explore.
 
-## 🧪 Sample Business Questions Answered
+## Sample Business Questions Answered
 
 - Which day of the week has the highest number of orders?
 - Do larger pizzas contribute more to revenue than smaller ones?
@@ -84,7 +84,7 @@ The `.pbit` file contains a pre-built dashboard that allows users to interact wi
 - Are there pizzas that should be discontinued based on low sales?
 - What is the average number of pizzas per order?
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 | Tool            | Purpose                              |
 |------------------|--------------------------------------|
@@ -92,7 +92,7 @@ The `.pbit` file contains a pre-built dashboard that allows users to interact wi
 | Power BI     | Dashboard design and visualization   |
 | Excel (optional) | Initial data cleaning (if needed)  |
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 By completing this project, I strengthened my skills in:
 
@@ -101,7 +101,7 @@ By completing this project, I strengthened my skills in:
 - Understanding how to analyze retail sales data.
 - Communicating data-driven insights clearly to stakeholders.
 
-## 🧑‍💻 Author
+## Author
 
 Tushar Saharan 
 Aspiring Data Analyst | Business Intelligence Learner
@@ -109,7 +109,7 @@ Aspiring Data Analyst | Business Intelligence Learner
 
 
 
-## 📷 Screenshots 
+## Screenshots 
 
 >![Pizza Sales Power BI](https://github.com/user-attachments/assets/b1d92952-8853-46cb-8b2b-ede2a1304845)
 >![Pizza Sales power BI (2)](https://github.com/user-attachments/assets/0d3789cc-2ee3-4379-ab0b-8d376a8b71ac)
