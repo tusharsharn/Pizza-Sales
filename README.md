@@ -103,9 +103,7 @@ By completing this project, I strengthened my skills in:
 
 ## Author
 
-Tushar Saharan 
-Aspiring Data Analyst | Business Intelligence Learner
-📧 Email: saharantushar2002@gmail.com 
+Tushar Saharan | Aspiring Data Analyst | Business Intelligence Learner | Email: saharantushar2002@gmail.com 
 
 
 
